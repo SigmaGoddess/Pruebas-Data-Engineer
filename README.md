@@ -344,6 +344,4 @@ Las carpetas semanales documentan la evolución del proyecto:
 - **Semana 8:** consumo de APIs externas y escritura en tablas Delta Bronze.
 - **Semana 9:** controles de volumen, integridad referencial y validaciones de rangos.
 
-## Estado del proyecto
 
-El repositorio funciona como un proyecto educativo y una base para un pipeline inmobiliario en Databricks. La arquitectura principal está implementada en `SRC/`, mientras que las carpetas semanales contienen ejercicios complementarios y ejemplos para extender el flujo.
